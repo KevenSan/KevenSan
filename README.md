@@ -4,4 +4,4 @@
 -  🍀 I'm currently learning more about Flutter, CSS and Delphi. 
 -  ❤  Programming and Technologies.
 -  💼 Currently working at the company INFORVIX SISTEMAS in the area of ​​business systems.**
--  
+-  🏠 Brazilian, resident in Vitória, in the state of Espírito Santo.**

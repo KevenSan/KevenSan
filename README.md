@@ -1,5 +1,7 @@
 -  Hello,  Welcome
--  I’m Keven Santos, Developer Front End from Espirito Santo, Brazil.
+-  👨‍💻 I’m Keven Santos, Developer/programmer with experience in Flutter, Delphi e SQL.
 -  💡  I Like learn new technologies and build news projects.
 -  🍀 I'm currently learning more about Flutter, CSS and Delphi. 
--  ❤  Programming and Technologies. 
+-  ❤  Programming and Technologies.
+-  💼 Currently working at the company INFORVIX SISTEMAS in the area of ​​business systems.**
+-  

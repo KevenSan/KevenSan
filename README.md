@@ -2,5 +2,5 @@
 -  👨‍💻 I’m Keven Santos, Developer/programmer with experience in Flutter, Delphi e SQL.
 -  💡  I Like learn new technologies and build news projects.
 -  ❤  Programming and Technologies.
--  💼 Currently working at the company INFORVIX SISTEMAS in the area of ​​business systems.**
--  🏠 Brazilian, resident in Vitória, in the state of Espírito Santo.**
+-  💼 Currently working at the company INFORVIX SISTEMAS in the area of ​​business systems.
+-  🏠 Brazilian, resident in Vitória, in the state of Espírito Santo.
